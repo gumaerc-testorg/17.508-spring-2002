@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bbf29b7a-dbe9-aac4-7ba2-9bfcef71feff
 resourcetype: Document
 title: Potential Topics for Research Papers
 uid: ea4865c1-5fd1-fb91-8e0d-4a835e2eb986

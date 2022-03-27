@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bf7143ac-206a-568c-d92f-c813912d6011
 resourcetype: Document
 title: Austria Timeline
 uid: 6079b830-5ce3-acbf-d348-c158af9ecdff

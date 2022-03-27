@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bf7143ac-206a-568c-d92f-c813912d6011
 resourcetype: Document
 title: Weimar Timeline
 uid: f098e464-fbd5-1613-cbb7-b9fca3060a27

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bf7143ac-206a-568c-d92f-c813912d6011
 resourcetype: Document
 title: Chile Timeline
 uid: 88a4ad65-4dbd-8496-4a12-91d6c31675b9

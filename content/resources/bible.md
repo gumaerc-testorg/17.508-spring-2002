@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 42a4b4aa-75b0-32b5-26da-fcc73038052a
 resourcetype: Document
 title: '1 Samuel '
 uid: e8537d11-9e57-7949-f3f4-328e4a262e0b

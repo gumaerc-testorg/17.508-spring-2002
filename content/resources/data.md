@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bf7143ac-206a-568c-d92f-c813912d6011
 resourcetype: Other
 title: Cross-national Data on Democracy
 uid: af854fc3-e600-a172-595e-fe1c5007336b

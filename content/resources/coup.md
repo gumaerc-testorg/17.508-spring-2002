@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bbf29b7a-dbe9-aac4-7ba2-9bfcef71feff
 resourcetype: Document
 title: Explaining the Coup in C^ote d'Ivoire
 uid: 4d9e060e-911d-d8bd-185f-57424fa8d98d
