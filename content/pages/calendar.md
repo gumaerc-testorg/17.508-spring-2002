@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of weekly course topics,
+  class activities, readings, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -54,7 +56,7 @@ What is Regime Change?
 {{< tdopen >}}
 
 
-1 Samuel 8:1-8:22 _The New Oxford Annotated Bible_. ([PDF]({{< baseurl >}}/resources/bible))
+1 Samuel 8:1-8:22 _The New Oxford Annotated Bible_. ({{% resource_link e8537d11-9e57-7949-f3f4-328e4a262e0b "PDF" %}})
 
 Dahl, Robert. _Polyarchy: Participation and Opposition._ Pp. 1-16.
 
@@ -346,8 +348,8 @@ Those writing a long paper must submit a 2-page introduction to their paper that
 {{< tdopen >}}
 
 
-The Collapse of Weimar and the Rise of the Third Reich: Weimar Timeline ([PDF]({{< baseurl >}}/resources/weimar_timeline))  
-Austria Timeline ([PDF]({{< baseurl >}}/resources/austria_timeline))
+The Collapse of Weimar and the Rise of the Third Reich: Weimar Timeline ({{% resource_link f098e464-fbd5-1613-cbb7-b9fca3060a27 "PDF" %}})  
+Austria Timeline ({{% resource_link 6079b830-5ce3-acbf-d348-c158af9ecdff "PDF" %}})
 
 
 {{< tdclose >}}
@@ -400,7 +402,7 @@ Those writing short papers must have submitted at least two papers.
 {{< tdopen >}}
 
 
-Democratic Breakdown in Chile: Chile Timeline ([PDF]({{< baseurl >}}/resources/chile_timeline))
+Democratic Breakdown in Chile: Chile Timeline ({{% resource_link 88a4ad65-4dbd-8496-4a12-91d6c31675b9 "PDF" %}})
 
 
 {{< tdclose >}}

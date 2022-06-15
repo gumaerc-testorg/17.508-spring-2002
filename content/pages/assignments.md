@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the information on written requirements for the
+  course, oral requirements, other assignments, and a sample student paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,7 +26,7 @@ You have two options: (1) one long paper of approximately 25 pages **OR** (2) fi
     
     If you choose to write a long paper, you must come up with a list of potential topics by Class #3. These topics should be in the form of clearly articulated questions about your case (including the time frame you will analyze), rather than simply vague expressions of interest. By Class #5, you must select one of these topics and submit a comprehensive bibliography of sources related to that topic. You must also submit a one-page summary of your topic, which indicates that you have already read some of the key sources in your bibliography. By Class #8, you must submit a two-page overview of your case that summarizes your overall conclusions and argument, as well as a 5-10 page analysis of the incident you have chosen to analyze – that is, what happened, when, etc. By Class #11, you must submit a second installment of 5-10 pages, summarizing the theoretical section of your paper – that is, why things turned out the way they did. By Class #13, you must submit a complete draft of your paper. This version should be polished and free of grammatical or stylistic errors. I will return this draft to you by the following week, and you will then have an additional week before the end of the semester to revise your paper based on my comments. In Class #17, you must then submit a final version of your paper to me and to the rest of the class (by email). In Class #18, you will be expected to present the findings of your paper in class (plan on a presentation of 10-12 minutes, with transparencies if you wish). If class discussion of your paper leads you to change your conclusions or argument in some way, you may submit a revised version any time on or before Class #19. **Please note that each of your submissions will be graded separately.**
     
-    Suggested Research Paper Topics ([PDF]({{< baseurl >}}/resources/topics))
+    Suggested Research Paper Topics ({{% resource_link ea4865c1-5fd1-fb91-8e0d-4a835e2eb986 "PDF" %}})
     
 2.  **Short Papers:** Short papers should be 1,000-1,250 words and should address issues raised by the required readings from that week in a coherent way. They should **not** be composites of separate critiques of the readings. Rather, they should develop a coherent argument regarding the topic of the week, support that argument with evidence from the readings, and refute potential counter-arguments. For instance, in the second week of the class, the readings cover the causes of democracy. For this week, you may wish to discuss which factors seem most important. Alternatively, you might try analyzing which of the causes of democracy discussed by Huntington and Diamond best explain why democracy was not consolidated in the cases we discussed in the first week of class (ancient Israel, Pakistan, Venezuela, Ecuador, etc.).
     
@@ -65,4 +67,4 @@ The most important small assignment is due in Class #4 (when we discuss moderniz
 Sample Student Paper
 --------------------
 
-"Explaining the Coup in Cote d'Ivoire" by Daniel Berger (2001) ([PDF]({{< baseurl >}}/resources/coup))
+"Explaining the Coup in Cote d'Ivoire" by Daniel Berger (2001) ({{% resource_link 4d9e060e-911d-d8bd-185f-57424fa8d98d "PDF" %}})
