@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to external websites related to democracy
+  and regime change.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: ce0e1856-0e95-8a37-ed07-18133948cec1
 ---

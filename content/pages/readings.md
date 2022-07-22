@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a bibliography of course texts, videos, and additional
+  readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 42a4b4aa-75b0-32b5-26da-fcc73038052a
 ---
@@ -33,7 +38,7 @@ _Z: A Political Tragedy in Greece._
 Additional Undergraduate Readings
 ---------------------------------
 
-1 Samuel 8:1-8:22 _The New Oxford Annotated Bible_. ([PDF]({{< baseurl >}}/resources/bible))
+1 Samuel 8:1-8:22 _The New Oxford Annotated Bible_. ({{% resource_link e8537d11-9e57-7949-f3f4-328e4a262e0b "PDF" %}})
 
 Adams, John. "But what do we mean by the American Revolution?" Letter to Hezekiah Niles, Quincy, Massachusetts, February 13, 1818. In _The American Revolution: The Search for Meaning._ Edited by Richard J. Hooker. New York: Wiley & Sons, 1970, pp. 9-12.
 

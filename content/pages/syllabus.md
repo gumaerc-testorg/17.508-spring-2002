@@ -1,24 +1,25 @@
 ---
 content_type: page
+description: This syllabus section provides the complete course syllabus and information
+  on meeting times, why you should take the course, what the course is about, readings,
+  workload, and grading.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6bb879bd-4ca2-80d0-da76-53730429f52a
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Complete Syllabus ([PDF]({{< baseurl >}}/resources/17_508_syllabus_2002_final))
--------------------------------------------------------------------------------
+## Complete Syllabus ({{% resource_link "3d5e625f-e446-6d81-dfee-bb35cc652a3b" "PDF" %}})
 
-Why you should take this course?
---------------------------------
+## Why you should take this course?
 
 Coups, civil wars, revolutions, and peaceful political transitions are the "real stuff" of political science. They show us why politics matters, and they highlight the consequences of political choices in times of institutional crisis. This course will help you understand why democracies emerge and why they die, from ancient times to the recent wave of democratization in Southern Europe, Eastern Europe, and the developing world.
 
-What this course is about?
---------------------------
+## What this course is about?
 
 Few things are more dramatic than the collapse of a political system, whether through violent conflict or the peaceful negotiation of new institutions. Explaining why regimes break down, why new ones emerge, and how these new regimes become consolidated are among the most important questions in political science. Not surprisingly, regime change has obsessed scholars for centuries, from Aristotle to Machiavelli to the current theorists of democratization.
 
@@ -26,20 +27,17 @@ You will review several broad explanations for regime change before turning to a
 
 **Please note that there are two numbers for this class, 17.508 and 17.507.** Graduate students should register under 17.508; no prerequisites are required. Undergraduates should register under 17.507, unless they wish to take the graduate-level version of the class (for which you must receive my permission).
 
-Readings
---------
+## Readings
 
 Readings are assigned for each week, **including for the first week** (Class #1). Weekly reading requirements are different for graduate students and undergraduates. Undergraduates are expected to read approximately 100 pages per week, which will focus on the central themes or cases for that week. These readings should take you about three to four hours, depending on how fast you read.
 
 Graduate students are expected to read 100-125 **additional** pages that cover other cases or expand on theoretically challenging issues raised by the principal case. For instance, undergraduate readings on the rise of fascism in Europe examine the collapse of the Weimar Republic in Germany. Additional graduate readings in that week examine the rise of fascism in Italy, as well as the case of Austria (where fascist and Nazi parties failed to take power). Graduate students should be able to complete all the readings for a typical week in about eight hours.
 
-Overall Workload>
------------------
+## Overall Workload
 
 Combining the readings, class preparation, class presentation(s), small assignments, written work, and actual time in class, **undergraduates should plan to devote approximately eight hours per week to the class on average, over a thirteen week semester. Graduate students should plan to devote about twelve hours per week**.
 
-Grading
--------
+## Grading
 
 Twenty-five percent (25%) of your grade will be based on class participation, including your presentation(s). Each presentation grade will count as the equivalent of six sessions of regular class participation. The other 75% of your grade will be based on your written work–i.e., either one long paper or five short papers. Short papers will all count equally (15% each); if you are feeling ambitious and want to write more than the requisite number of papers, your best five papers will be counted.
 
