@@ -5,6 +5,7 @@ file: /courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '1 Samuel '
 uid: e8537d11-9e57-7949-f3f4-328e4a262e0b
 ---
 Excerpt of one of the Books of Samuel.
-

@@ -5,6 +5,7 @@ file: /courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Potential Topics for Research Papers
 uid: ea4865c1-5fd1-fb91-8e0d-4a835e2eb986
 ---
 A list of potential topics for research papers.
-
