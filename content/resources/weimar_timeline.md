@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Timeline of events related to the Weimar Republic.
-file: /courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/f098e464fbd51613cbb7b9fca3060a27_weimar_timeline.pdf
+file: /ol-ocw-studio-app/courses/17-508-the-rise-and-fall-of-democracy-regime-change-spring-2002/f098e464fbd51613cbb7b9fca3060a27_weimar_timeline.pdf
+file_size: 119885
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
